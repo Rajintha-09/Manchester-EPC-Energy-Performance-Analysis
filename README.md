@@ -48,20 +48,23 @@ The dataset includes EPC records of properties in Manchester from **2006–2025*
 - Solar panels and heating upgrades offer significant environmental and financial benefits
 
 ## Authors / Team Members
-Rajintha Hewanayaka
-BSc in Applied Data Science and Communication
-Advanced SQL and Cloud Databases
 
-**Team Members/ Contributors:**
+**Rajintha Hewanayaka**  
+BSc in Applied Data Science and Communication  
+Advanced SQL and Cloud Databases  
 
-Muhammed Nasir
-Hussein Ziyard
-Chamali Abeysekara
-Acknowledgements
-Special thanks to all team members for this support and contributions to this project
+**Team Members / Contributors:**  
+- Muhammed Nasir  
+- Hussein Ziyard  
+- Chamali Abeysekara  
+
+**Acknowledgements:**  
+Special thanks to all team members for their support and contributions to this project.  
+
+**Institution:**  
 General Sir John Kotelawala Defence University  
 
+**Note:**  
+- Interactive dashboards allow filtering by property type, energy rating, and location.
 
-- Interactive dashboards allow filtering by property type, energy rating, and location
 
-- 
