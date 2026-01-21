@@ -12,7 +12,7 @@ The dataset includes EPC records of properties in Manchester from **2006–2025*
 - Energy-related expenses (heating, lighting, hot water)  
 - Property and building characteristics (type, age, floor area, insulation, heating systems)
 
-- ## Project Structure
+## Project Structure
 ```
   Manchester-EPC-Analysis/
 │
@@ -41,13 +41,13 @@ The dataset includes EPC records of properties in Manchester from **2006–2025*
 - **Excel:** Raw datasets  
 - **GitHub:** Version control and project documentation
 
-- ## Key Insights
+## Key Insights
 - Heating is the largest contributor to total energy costs  
 - Mid-terrace properties dominate the building stock  
 - CO₂ emissions vary with property type, age, and construction  
 - Solar panels and heating upgrades offer significant environmental and financial benefits
 
-- ## Authors
+## Authors
 - **Muhammed Nasir** – D/ADC/24/0047  
 - **Hussein Ziyard** – D/ADC/24/0007  
 - **Rajintha Lakshani** – D/ADC/24/0036  
