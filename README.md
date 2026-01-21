@@ -47,13 +47,18 @@ The dataset includes EPC records of properties in Manchester from **2006–2025*
 - CO₂ emissions vary with property type, age, and construction  
 - Solar panels and heating upgrades offer significant environmental and financial benefits
 
-## Authors
-- **Muhammed Nasir** – D/ADC/24/0047  
-- **Hussein Ziyard** – D/ADC/24/0007  
-- **Rajintha Lakshani** – D/ADC/24/0036  
-- **Chamali Abeysekara** – D/ADC/24/0008  
+## Authors / Team Members
+Rajintha Hewanayaka
+BSc in Applied Data Science and Communication
+Advanced SQL and Cloud Databases
 
-BSc in Applied Data Science and Communication  
+**Team Members/ Contributors:**
+
+Muhammed Nasir
+Hussein Ziyard
+Chamali Abeysekara
+Acknowledgements
+Special thanks to all team members for this support and contributions to this project
 General Sir John Kotelawala Defence University  
 
 
