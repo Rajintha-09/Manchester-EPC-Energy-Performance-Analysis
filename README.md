@@ -52,6 +52,7 @@ The dataset includes EPC records of properties in Manchester from **2006–2025*
 **Rajintha Hewanayaka**  
 BSc in Applied Data Science and Communication  
 Advanced SQL and Cloud Databases  
+General Sir John Kotelawala Defence University 
 
 **Team Members / Contributors:**  
 - Muhammed Nasir  
@@ -61,10 +62,7 @@ Advanced SQL and Cloud Databases
 **Acknowledgements:**  
 Special thanks to all team members for their support and contributions to this project.  
 
-**Institution:**  
-General Sir John Kotelawala Defence University  
 
-**Note:**  
-- Interactive dashboards allow filtering by property type, energy rating, and location.
+
 
 
