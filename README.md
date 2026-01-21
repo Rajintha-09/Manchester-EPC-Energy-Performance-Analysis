@@ -13,29 +13,27 @@ The dataset includes EPC records of properties in Manchester from **2006–2025*
 - Property and building characteristics (type, age, floor area, insulation, heating systems)
 
 - ## Project Structure
-- ```
-- Manchester-EPC-Analysis/
+
+  Manchester-EPC-Analysis/
 │
 ├── README.md
 ├── report/
-│   └── Manchester_EPC_Report.pdf
+│ └── Manchester_EPC_Report.pdf
 ├── data/
-│   ├── certificates/
-│   │   ├── Certificates.xlsx
-│   │   └── Recommendations.xlsx
-│   └── dashboards/
-│       ├── cost_dashboard.png
-│       ├── energy_efficiency.png
-│       ├── home.png
-│       ├── overview.png
-│       ├── property_characteristics.png
-│       └── recommendations.png
+│ ├── certificates/
+│ │ ├── Certificates.xlsx
+│ │ └── Recommendations.xlsx
+│ └── dashboards/
+│ ├── cost_dashboard.png
+│ ├── energy_efficiency.png
+│ ├── home.png
+│ ├── overview.png
+│ ├── property_characteristics.png
+│ └── recommendations.png
 ├── sql/
-│   └── epc_analysis.sql
+│ └── epc_analysis.sql
 └── powerbi/
-    └── manchester_epc_dashboard.pbix
-  README.md
-  ```
+└── manchester_epc_dashboard.pbix
 
 ## Technologies Used
 - **SQL Server:** Data storage, cleaning, and transformation  
