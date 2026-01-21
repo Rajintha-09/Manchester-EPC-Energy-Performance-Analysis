@@ -14,26 +14,22 @@ The dataset includes EPC records of properties in Manchester from **2006–2025*
 
 ## Project Structure
 ```
-  Manchester-EPC-Analysis/
+  
+Manchester-EPC-Analysis/
 │
 ├── README.md
 ├── report/
-│ └── Manchester_EPC_Report.pdf
-├── data/
-│ ├── certificates/
-│ │ ├── Certificates.xlsx
-│ │ └── Recommendations.xlsx
-│ └── dashboards/
-│ ├── cost_dashboard.png
-│ ├── energy_efficiency.png
-│ ├── home.png
-│ ├── overview.png
-│ ├── property_characteristics.png
-│ └── recommendations.png
+│   └── Manchester_EPC_Report.pdf
+├── dashboards/
+│   ├── cost_dashboard.png
+│   ├── energy_efficiency.png
+│   ├── home.png
+│   ├── overview.png
+│   ├── property_characteristics.png
+│   └── recommendations.png
 ├── sql/
-│ └── epc_analysis.sql
-└── powerbi/
-└── manchester_epc_dashboard.pbix
+│   └── epc_analysis.sql
+
 ```
 ## Technologies Used
 - **SQL Server:** Data storage, cleaning, and transformation  
