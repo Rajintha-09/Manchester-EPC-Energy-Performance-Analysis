@@ -13,6 +13,7 @@ The dataset includes EPC records of properties in Manchester from **2006–2025*
 - Property and building characteristics (type, age, floor area, insulation, heating systems)
 
 - ## Project Structure
+- ```
 - Manchester-EPC-Analysis/
 │
 ├── README.md
@@ -33,6 +34,8 @@ The dataset includes EPC records of properties in Manchester from **2006–2025*
 │   └── epc_analysis.sql
 └── powerbi/
     └── manchester_epc_dashboard.pbix
+  README.md
+  ```
 
 ## Technologies Used
 - **SQL Server:** Data storage, cleaning, and transformation  
