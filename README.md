@@ -70,7 +70,9 @@ Manchester-EPC-Analysis/
 This project was completed as part of the module:
 
 **Advanced SQL and Cloud Databases**
+
 BSc in Applied Data Science and Communication
+
 General Sir John Kotelawala Defence University
 
 ---
