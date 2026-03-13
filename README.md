@@ -77,8 +77,8 @@ General Sir John Kotelawala Defence University
 
 ## Authors / Team Members
 
-**Rajintha Hewanayaka** – BSc in Applied Data Science and Communication
-
+**Rajintha Hewanayaka** 
+BSc in Applied Data Science and Communication
 General Sir John Kotelawala Defence University
 
 ### Contributors:
