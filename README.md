@@ -20,7 +20,7 @@ The dataset includes EPC records of properties in Manchester from 2006–2025, c
 - Energy-related expenses (heating, lighting, hot water)
 - Property and building characteristics (type, age, floor area, insulation, heating systems)
 
-> **Note:** The original datasets and the full Power BI dashboard file are not included in this repository due to file size limitations. Dashboard insights are provided via screenshots in the `dashboards/` folder. The raw EPC data can be accessed from the [UK Government EPC Open Data Portal](https://epc.opendatacommunities.org/).
+> **Note:** The original datasets and the full Power BI dashboard file are not included in this repository due to file size limitations. Dashboard insights are provided via screenshots in the `powerbi/screenshots/` folder. The raw EPC data can be accessed from the [UK Government EPC Open Data Portal](https://epc.opendatacommunities.org/).
 
 ---
 
@@ -32,13 +32,14 @@ Manchester-EPC-Analysis/
 ├── README.md
 ├── report/
 │   └── Manchester_EPC_Report.pdf
-├── dashboards/
-│   ├── cost_dashboard.png
-│   ├── energy_efficiency.png
-│   ├── home.png
-│   ├── overview.png
-│   ├── property_characteristics.png
-│   └── recommendations.png
+├── powerbi/
+│   └── screenshots/
+│       ├── cost_dashboard.png
+│       ├── energy_efficiency.png
+│       ├── home.png
+│       ├── overview.png
+│       ├── property_characteristics.png
+│       └── recommendations.png
 ├── sql/
 │   └── epc_analysis.sql
 ```
